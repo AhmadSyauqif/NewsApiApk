@@ -1,0 +1,29 @@
+<resources>
+    <!-- Base application theme. -->
+
+
+
+    -<style parent="Theme.MaterialComponents.Light.NoActionBar" name="AppTheme">
+
+    <!-- Customize your theme here. -->
+
+
+    <item name="colorPrimary">@color/colorPrimary</item>
+
+    <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+
+    <item name="colorAccent">@color/colorAccent</item>
+
+</style>
+
+
+    -<style parent="ThemeOverlay.MaterialComponents.Dark.ActionBar" name="AppTheme.AppBarOverlay">
+
+    <item name="elevation">0dp</item>
+
+</style>
+
+    <style parent="ThemeOverlay.MaterialComponents.Light" name="AppTheme.PopupOverlay"/>
+
+</resources>
+
